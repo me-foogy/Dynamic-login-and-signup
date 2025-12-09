@@ -12,7 +12,7 @@
 - A VITE_SERVER_URL enviroment as the endpoint to the backend.
 
 ## SCREENSHOTS
-<img src="src/screenshots/screenShot 1.png">
-<img src="src/screenshots/screenShot 2.png">
+<img src="./src/screenshots/screenShot 1.png">
+<img src="./src/screenshots/screenShot 2.png">
 
 
